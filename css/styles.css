@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+h2 {
+  color: brown;
+}
+.About {
+  width: 400px;
+  float: left;
+}
+.images {
+  width: 300px;
+  margin: 0 auto;
+}
+.events {
+  width: 380px;
+  float: right;
+}
